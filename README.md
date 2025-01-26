@@ -1,1 +1,1 @@
-# java_programs
+This repository contains various example programs demonstrating core Java concepts, including data types, variables, arrays, strings and more. It serves as a reference for learning and practicing fundamental Java programming techniques.
