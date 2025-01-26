@@ -1,5 +1,5 @@
 package com.gqt.basicsofjava.strings;
-
+//Without using sort method
 import java.util.Scanner;
 
 public class Anagram1 {
